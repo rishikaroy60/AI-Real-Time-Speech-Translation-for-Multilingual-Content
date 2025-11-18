@@ -1,4 +1,4 @@
-# QalamAI Speech Translator – Monorepo (Modules 1–4)
+# AI- Speech Translator – Monorepo (Modules 1–4)
 
 A multi-module project for speech translation workflows, ranging from environment checks to dataset preparation, batch translation, realtime OTT/YouTube translation, and a web UI built with Flask.
 
